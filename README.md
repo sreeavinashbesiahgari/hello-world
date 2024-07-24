@@ -2,4 +2,4 @@
 
 Hello everyone...
 This is Avinash!!
-i am pursuing Btech in computer science.
+I am Software Engineer working on Full stack development of applications.
